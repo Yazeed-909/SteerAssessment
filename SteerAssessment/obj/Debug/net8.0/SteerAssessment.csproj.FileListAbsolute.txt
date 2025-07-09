@@ -1,0 +1,14 @@
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\obj\Debug\net8.0\SteerAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\obj\Debug\net8.0\SteerAssessment.AssemblyInfoInputs.cache
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\obj\Debug\net8.0\SteerAssessment.AssemblyInfo.cs
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\obj\Debug\net8.0\SteerAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\bin\Debug\net8.0\SteerAssessment.exe
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\bin\Debug\net8.0\SteerAssessment.deps.json
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\bin\Debug\net8.0\SteerAssessment.runtimeconfig.json
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\bin\Debug\net8.0\SteerAssessment.dll
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\bin\Debug\net8.0\SteerAssessment.pdb
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\obj\Debug\net8.0\SteerAssessment.dll
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\obj\Debug\net8.0\refint\SteerAssessment.dll
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\obj\Debug\net8.0\SteerAssessment.pdb
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\obj\Debug\net8.0\SteerAssessment.genruntimeconfig.cache
+C:\Users\Yazeed\source\repos\SteerAssessment\SteerAssessment\obj\Debug\net8.0\ref\SteerAssessment.dll
